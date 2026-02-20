@@ -1,4 +1,4 @@
-# Hardware & Software Engineering Lab 🧬🦾
+# Assistive Technology: Hardware & Software Lab 🦾🧬
 
 This repository hosts a collection of projects focused on low-level programming, software architecture, and hardware-software interfacing. These projects represent my technical foundation in C/C++ and embedded systems, bridging the gap between pure logic and physical interaction.
 

@@ -2,6 +2,9 @@
 //include <stdlib.h>
 
 int main() {
-    printf("Welcome to the guessing game!\n"); 
+    // print a welcome message to the user
+    printf("*********************************\n");
+    printf("* Welcome to the guessing game! *\n"); 
+    printf("*********************************\n");
     return 0;
 }
